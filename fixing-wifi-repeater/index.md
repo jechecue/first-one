@@ -38,7 +38,7 @@ I repeated the process, this time with the right polarity connection:
  - Using 3.3 V the current was 0.161 A and the power LED is lighting but not the Wi-Fi. Using my phone I was not able to locate the Wi-Fi spot the device is supposed to create.
  - Using 5 V the current waa 0.284 A and both the power LED and Wi-Fi LED were lighting. The Wi-Fi spot were there and I was able to enter in the configuration mode of the device. The same with the second module.
  
-Conclusion: power supply modules were broken and the Wi-Fi modules were working and they were designed in a robust way, I have to say.
+Conclusion: power supply modules were broken but the Wi-Fi modules were working and they were designed in a robust way, I have to say.
 
 ## Fixing the device
 
@@ -47,5 +47,25 @@ For the fixing process a needed a power supply module with the following feature
  - enough small to fit inside the Wi-Fi repeater housing taking into account there were another module inside.
  - output voltage: 5 V
  - enough output current to feed the Wi-Fi module. Acordding to the test, at least 0.161 A was needed. 
+
+I usually have a variety of modules and components in my lab so I did not have to do a specific search for this case.
+Specifically, I had a module HLK-PM01 AD-DC 220 V to 5 V. The only thing I had to check was the size and the output current.
+
+Regarding the issue of output current, the seller indicates that the HLK-PM01 module has a power of 3 W. Applying Ohm's law for DC, the maximum current it can provide is I = P / V = 3 W / 5 V = 0.6 A which is twice the laboratory measurement. Therefore, this module could perform its function well below its power limit.
+
+For the size issue the most direct way is to try to put everything inside the housing and there was no problem with that. 
+
+The last step is to assemble everything and test it. One difficulty to solve is the fastening of the power module. The original module was fixed with some screws but the new one was not the right shape.
+
+There are several ways to solve this problem which is basically to somehow glue the module to the housing. I could have used epoxy resin but decided to use something more creative that I had tried before.
+
+I used a low temperature <a href="https://es.aliexpress.com/item/32874700662.html">3D Drawing Pen</a>. You don't need to be very skilled to do it properly. The hot plastic is poured into the area of interest and then, in the first few seconds, a screwdriver or similar can be used to model it.
+
+## Final conclusion
+
+With a little patience, some simple tools and being a little systematic I was able to recover a Wi-Fi repeater. The device has been installed and working for two weeks now without any problems.  I am waiting to receive a second power module to fix the other one that I have broken. 
+
+
+
 
 
