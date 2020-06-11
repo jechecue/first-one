@@ -1,4 +1,4 @@
-# Fixing cheap Wi-Fi repeater
+# Fixing a cheap Wi-Fi repeater
 ## Introduction
 As it usually happens to a lot of people,  I needed to install  Wi-Fi repeaters to reach those points in my house with poor coverage from my Router. Some time ago I bought a couple of cheap Wi-Fi repeaters from a well-known Chinese online shop. It is a very common model that can be found in other shops. I give you a pair of links:
 
