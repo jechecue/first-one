@@ -42,7 +42,7 @@ Conclusion: power supply modules were broken but the Wi-Fi modules were working 
 
 ## Fixing the device
 
-For the fixing process a needed a power supply module with the following features:
+For the fixing process a needed a power supply module with the following requirements:
 
  - enough small to fit inside the Wi-Fi repeater housing taking into account there were another module inside.
  - output voltage: 5 V
