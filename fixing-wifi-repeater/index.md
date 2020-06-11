@@ -1,6 +1,6 @@
 # Fixing cheap Wi-Fi repeater
 ## Introduction
-As it usually happens to a lot of people,  I needed to install  Wi-Fi repeaters to reach those points in my house with poor coverage from my Router. Some time ago I bought a couple of cheap Wi-Fi repeaters from a well-known Chinese online shop. It is a very common model tha can be found in other shops. I give you a pair of links:
+As it usually happens to a lot of people,  I needed to install  Wi-Fi repeaters to reach those points in my house with poor coverage from my Router. Some time ago I bought a couple of cheap Wi-Fi repeaters from a well-known Chinese online shop. It is a very common model that can be found in other shops. I give you a pair of links:
 
 - <a href="https://es.aliexpress.com/item/32951118473.html">Aliexpress</a>
 - <a href="https://www.amazon.es/Amplificador-Repetidor-Extensor-inal%C3%A1mbrico-integradas/dp/B082D5VHPT">Amazon</a>
@@ -23,13 +23,22 @@ The second step was to check if the power supply was working properly. I checked
 
 At this point it was clear that the problem was in the power supply module. Checking the second device confirmed my first impression. But I had to hold my horses becouse sometimes the power supply can be damaged afther the load it powers (the Wi-Fi module in this case) is damaged and produces an overload of the power supply. Or, conversely, a failure in the power supply module can ruin the element it feeds. There were no damaged components at the power supply module but this is not always definitive.
 
-To check if the Wi-Fi module worked, I planned to use my home-made lab power supply. It can provide 0-30 V and shows the current it provides to the load.  As none of the power supply modules were working and there was no information about the voltage they provide it were going to be an "interesting" enquiry. After taking a look to the components of the module and their datasheet it seemed they were working at 3.3 V but this information was not the last word. 
+To check if the Wi-Fi module worked, I planned to use my <a href="https://es.aliexpress.com/item/32818704937.html"> home-made lab power supply</a>. It can provide 0-30 V and shows the current it provides to the load.  As none of the power supply modules were working and there was no information about the voltage they provide it were going to be an "interesting" enquiry. After taking a look to the components of the module and their datasheet it seemed they were working at 3.3 V but this information was not the last word. 
 
 So, I decided to use my power supply starting to feed the module with 3.3 volts and see what happened. Then, was when the fun started.
 - Using 3.3 V the module didn't show any change (the power LED didn't light up). The consumption showed by my power supply was 1 A. Perhaps, it needed a higher voltage.
 - Using 5 V showed the same but the current was 1.6 A. Ok, let's increase the voltage to the next level
-- Using 9 V I got the same state but this time the circuit started to smell of burning and smoke started coming out of one part of the circuit. Ok, time to switch off quickly the power supply.
+- Using 9 V I got the same state but this time the circuit started to smell of burning and smoke started coming out of one part of the circuit. Ok, ...time to switch off quickly the power supply.
 
+Being a bit stubborn, thinking that the module was also damaged , I repeated the same process with the other module...same behaviour and that time I set a record switching off the power supply.
+
+At this point, just after thinking I lost both modules, I made another inspection to the modules and I realized that the manufaturer had used the red wire for the negative terminal "-" and the black wire for the positive "+" one. Just the opposite of what's usual...Ok! lesson learned!
+
+I repeated the process, this time with the right polarity connection:
+ - Using 3.3 V the current was 0.161 A and the power LED is lighting but not the Wi-Fi. Using my phone I was not able to locate the Wi-Fi spot the device is supposed to create.
+ - Using 5 V the current waa 0.284 A and both the power LED and Wi-Fi LED were lighting. The Wi-Fi spot were there and I was able to enter in the configuration mode of the device. The same with the second module.
+ 
+Conclusion: power supply modules were broken and the Wi-Fi modules were working and they were designed in a robust way, I have to say.
 
 ## Fixing the device
 
