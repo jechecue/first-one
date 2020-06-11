@@ -34,7 +34,7 @@ Being a bit stubborn, thinking that the module was also damaged , I repeated the
 
 At this point, just after thinking I lost both modules, I made another inspection to the modules and I realized that the manufaturer had used the red wire for the negative terminal "-" and the black wire for the positive "+" one. Just the opposite of what's usual...Ok! lesson learned!
 
-I repeated the process, this time with the right polarity connection:
+I repeated the process, connecting it this time with the right polarity:
  - Using 3.3 V the current was 0.161 A and the power LED is lighting but not the Wi-Fi. Using my phone I was not able to locate the Wi-Fi spot the device is supposed to create.
  - Using 5 V the current waa 0.284 A and both the power LED and Wi-Fi LED were lighting. The Wi-Fi spot were there and I was able to enter in the configuration mode of the device. The same with the second module.
  
@@ -64,8 +64,3 @@ I used a low temperature <a href="https://es.aliexpress.com/item/32874700662.htm
 ## Final conclusion
 
 With a little patience, some simple tools and being a little systematic I was able to recover a Wi-Fi repeater. The device has been installed and working for two weeks now without any problems.  I am waiting to receive a second power module to fix the other one that I have broken. 
-
-
-
-
-
