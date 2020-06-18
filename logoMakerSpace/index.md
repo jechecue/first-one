@@ -23,10 +23,9 @@ Really powerful and with a lot of graphic elements Each element is highly config
 
 Here it is a very initial draft of the logo:
 
-![Drag Racing](images/Image png 1480x1000 pixels.png)
+![title_image](images/Image png 1480x1000 pixels.png)
 
-![](images/Image png 1480x1000 pixels.png) 
-[[images/Image png 1480x1000 pixels.png]]
+
 
 ### Vectr
 Its look&feel seems more simple and prettier but it has less types of shapes to be used.
