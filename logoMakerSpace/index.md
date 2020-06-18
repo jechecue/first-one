@@ -24,6 +24,7 @@ Really powerful and with a lot of graphic elements Each element is highly config
 Here it is a very initial draft of the logo:
 
 <img src="images/LogoMakerSpaceSDR.svg" alt="Logo Santander MakerSpace"
+	width=50% height=50%
 	title="Logo Santander MakerSpace" />
 
 ### Vectr
