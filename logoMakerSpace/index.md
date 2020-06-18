@@ -31,4 +31,4 @@ Here it is a very initial draft of the logo:
 Its look&feel seems more simple and prettier but it has less types of shapes to be used.
 
 ## Conclusions
-It has surprise me that as far as I know, there is no online open source (or at least free) raster editor. The only one I found was Photopea but it is propietary. 
+It was a surprise for me not finding an online open source (or at least free) raster editor. The only one I found was Photopea but it is propietary. Regarding the process of designing a logo and using the software I realized there are some powerful open source apps around. I have used Gimp in the past with a lot of satisfaction but this time I preferred to try an online editor. The experience has been also satisfactory.
