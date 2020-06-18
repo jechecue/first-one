@@ -23,7 +23,9 @@ Really powerful and with a lot of graphic elements Each element is highly config
 
 Here it is a very initial draft of the logo:
 
-![title_image](images/Image png 1480x1000 pixels.png)
+<img src="images/Image png 1480x1000 pixels.png" alt="Logo Santander MakerSpace"
+	title="Logo Santander MakerSpace" />
+  
 
 
 
