@@ -24,7 +24,6 @@ Really powerful and with a lot of graphic elements Each element is highly config
 Here it is a very initial draft of the logo:
 PNG version
 <img src="images/Image png 1480x1000 pixels.png" 
-	width:50% height:50% 
 	alt "Logo Santander MakerSpace"
 	title="Logo Santander MakerSpace" />
 SVG version
