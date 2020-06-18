@@ -1,4 +1,4 @@
-# Logo MakeSpace
+# Logo MakerSpace
 ## Introduction
 Starting from some requirements in order to make a suitable design of the Logo for Santander's MakerSpace I've made a selection and used several vector and raster editors.
 
