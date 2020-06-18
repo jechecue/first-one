@@ -7,5 +7,5 @@ In order to try to give it some real content I have added a section with small m
 ## Projects
 ### <a href="./fixing-wifi-repeater/index.html">Fixing a cheap Wi-Fi repeater</a>
 In this project you can see how to fix a popular cheap Wi-Fi repeater that tends to fail owing to its power supply module. Repair procedure, components used and references of all the elements are given. This is material suitable for a Repair Cafe that allows avoiding the generation of electronic garbage.
-### <a href="./logoMakerSpace/index.html">Logo MakerSpace</a>
-Experiences when trying to design a logo for a MakerSpace. Starting from some requirements an core idea for the logo is elaborated.  Vector and Raster editors are used.
+### <a href="./logoMakerSpace/index.html">Logo Santander MakerSpace</a>
+Experiences when trying to design a logo for our MakerSpace at Santander. Starting from some requirements an core idea for the logo is elaborated.  Vector and Raster editors are used.
