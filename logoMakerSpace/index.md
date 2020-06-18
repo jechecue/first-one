@@ -22,6 +22,10 @@ There are a couple of applications that meet these requirments:
 Really powerful and with a lot of graphic elements Each element is highly configurable and the layers facility is very useful. Its ussability it is not too bad despited its web interface.
 
 Here it is a very initial draft of the logo:
+
+![Drag Racing](images/Image png 1480x1000 pixels.png)
+
+![](images/Image png 1480x1000 pixels.png) 
 [[images/Image png 1480x1000 pixels.png]]
 
 ### Vectr
