@@ -21,6 +21,9 @@ There are a couple of applications that meet these requirments:
 ### DrawSVG
 Really powerful and with a lot of graphic elements Each element is highly configurable and the layers facility is very useful. Its ussability it is not too bad despited its web interface.
 
+Here it is a very initial draft of the logo:
+[[images/myimage.svg]]
+
 ### Vectr
 Its look&feel seems more simple and prettier but it has less types of shapes to be used.
 
